@@ -25,3 +25,7 @@
 <img width="507" height="247" alt="스크린샷 2026-11-26 172130" src="https://github.com/user-attachments/assets/6960c960-4589-4527-9077-cd3e646c2717" />
 
 ### 실사용 예시
+
+<img width="941" height="107" alt="image" src="https://github.com/user-attachments/assets/29c92516-4fc3-48c8-af57-6201df66db0f" />
+
+- 자동 임포팅(`ctrl+space`)
