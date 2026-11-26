@@ -23,6 +23,15 @@
 ```
 <img width="500" height="178" alt="image" src="https://github.com/user-attachments/assets/be686485-3212-45cd-a2d4-4dbcc9d6fd14" />
 
+| 설정                                                   | 기능                                 |
+| ---------------------------------------------------- | ---------------------------------- |
+| `typeCheckingMode: standard`                         | 기본 수준의 정적 타입 검사 활성화                |
+| `autoImportCompletions: true`                        | 자동완성 시 필요한 Import 후보 제공            |
+| `indexing: true`                                     | 프로젝트 및 설치 패키지의 심볼 색인               |
+| `completeFunctionParens: true`                       | 함수 자동완성 시 괄호 자동 추가                 |
+| `includeAliasesFromUserFiles: true`                  | 사용자 파일에서 재노출한 심볼도 자동 Import 후보에 포함 |
+| `importFormat: absolute`                             | 절대 경로 Import 형식 사용                 |
+| `editor.defaultFormatter: ms-python.black-formatter` | Python 파일의 기본 포매터를 Black으로 지정      |
 
 ### 실사용 예시
 
