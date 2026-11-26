@@ -15,14 +15,14 @@
   "python.analysis.typeCheckingMode": "standard",
   "python.analysis.autoImportCompletions": true,
   "python.analysis.indexing": true,
-  "python.analysis.completeFunctionParens": true,
   "python.analysis.includeAliasesFromUserFiles": true,
   "python.analysis.importFormat": "absolute",
   "[python]": {
     "editor.defaultFormatter": "ms-python.black-formatter",
   },
 ```
-<img width="507" height="247" alt="스크린샷 2026-11-26 172130" src="https://github.com/user-attachments/assets/6960c960-4589-4527-9077-cd3e646c2717" />
+<img width="500" height="178" alt="image" src="https://github.com/user-attachments/assets/be686485-3212-45cd-a2d4-4dbcc9d6fd14" />
+
 
 ### 실사용 예시
 
